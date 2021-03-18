@@ -27,6 +27,7 @@ export const Title = styled.h1`
   text-align: center;
   @media (max-width: 600px) {
     font-size: 35px;
+   
   }
 `;
 
@@ -37,6 +38,10 @@ export const Item = styled.div`
   max-width: inherit;
   width: 42%;
   
+  @media (max-width: 1520px) {
+    width: 80%
+   
+  }
   
   &:first-of-type {
     margin-top: 3em;
