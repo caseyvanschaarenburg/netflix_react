@@ -17,6 +17,10 @@ Ook maakt dit poject gebruik van firebase.
 ![image](https://user-images.githubusercontent.com/72434750/114464613-478ae380-9be6-11eb-9c29-c78e63c623fd.png)
 ![image](https://user-images.githubusercontent.com/72434750/114464694-638e8500-9be6-11eb-8219-3c728b58b772.png)
 ![image](https://user-images.githubusercontent.com/72434750/114464741-71dca100-9be6-11eb-895f-1987f2e17c9a.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/72434750/114464831-933d8d00-9be6-11eb-852d-5fc384a9d764.png)
+![image](https://user-images.githubusercontent.com/72434750/114464867-a0f31280-9be6-11eb-83d8-8f31ab3b6705.png)
+
 
 
 
