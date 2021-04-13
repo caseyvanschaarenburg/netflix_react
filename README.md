@@ -1,9 +1,9 @@
 # netflix_react
 
 
-Welkom bij mijn clone van netflix!
+Welkom bij mijn clone van Netflix!
 
-In deze repository vind je de code van een netflix react-app met een startpagina, registreer pagina, login pagina, gebruikers pagina, de listing van films en series en zelfs een zoek functie!
+In deze repository vind je de code van een Netflix react-app met een startpagina, registreer pagina, login pagina, gebruikers pagina, de listing van films, series en zelfs een zoek functie!
 Ook maakt dit poject gebruik van firebase. 
 <br><br>
 
