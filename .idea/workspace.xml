@@ -4,11 +4,6 @@
     <list default="true" id="10754698-7f0c-4e16-8996-ad139ce24522" name="Default Changelist" comment="small change">
       <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/netflix.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/netflix/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/netflix/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/netflix/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/netflix/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/netflix/src/components/feature/styles/feature.js" beforeDir="false" afterPath="$PROJECT_DIR$/netflix/src/components/feature/styles/feature.js" afterDir="false" />
@@ -96,7 +91,7 @@
       <workItem from="1618313650969" duration="803000" />
       <workItem from="1618397336760" duration="3613000" />
       <workItem from="1618510652985" duration="325000" />
-      <workItem from="1618819650379" duration="6916000" />
+      <workItem from="1618819650379" duration="7315000" />
     </task>
     <task id="LOCAL-00001" summary="small change">
       <created>1618313470260</created>
