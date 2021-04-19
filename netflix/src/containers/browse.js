@@ -63,7 +63,7 @@ export function BrowseContainer({ slides }) {
                                     <Header.TextLink>{user.displayName}</Header.TextLink>
                                 </Header.Group>
                                 <Header.Group>
-                                    <Header.TextLink onClick={() => firebase.auth().signOut()}>Sign out</Header.TextLink>
+                                    <Header.TextLink onClick={() => firebase.auth().signOut()}>Uitloggen</Header.TextLink>
                                 </Header.Group>
                             </Header.Dropdown>
                         </Header.Profile>
@@ -77,7 +77,7 @@ export function BrowseContainer({ slides }) {
                         City. Arthur wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a
                         futile attempt to feel like he's part of the world around him.
                     </Header.Text>
-                    <Header.PlayButton>Play</Header.PlayButton>
+                    <Header.PlayButton>Afspelen</Header.PlayButton>
                 </Header.Feature>
             </Header>
 

@@ -31,6 +31,7 @@ export const Link = styled.a`
   margin-bottom: 20px;
   font-size: 13px;
   text-decoration: none;
+  font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
 `;
 
 export const Title = styled.p`

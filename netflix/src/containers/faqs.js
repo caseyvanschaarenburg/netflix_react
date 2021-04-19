@@ -7,7 +7,7 @@ import OptForm from "../components/opt-form";
 export function FaqsContainer(){
     return (
         <Accordion>
-            <Accordion.Title>Frequently Asked Questions</Accordion.Title>
+            <Accordion.Title>Veelgestelde vragen</Accordion.Title>
             {faqsData.map((item) => (
                 <Accordion.Item key={item.id}>
                     <Accordion.Header>{item.header}</Accordion.Header>
@@ -19,10 +19,10 @@ export function FaqsContainer(){
             </Accordion.Item>
 
             <OptForm>
-                <OptForm.Input placeholder="Email address" />
-                <OptForm.Button>Try it now</OptForm.Button>
+                <OptForm.Text>Klaar om te kijken? Voer je e-mailadres in om je lidmaatschap te starten of te hernieuwen.</OptForm.Text>
                 <OptForm.Break />
-                <OptForm.Text>Ready to watch? Enter your email to create or restart your membership.</OptForm.Text>
+                <OptForm.Input placeholder="E-mailadres" />
+                <OptForm.Button>Aan de slag</OptForm.Button>
             </OptForm>
         </Accordion>
     );

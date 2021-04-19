@@ -36,12 +36,12 @@ export default function SignIn() {
         <>
             <HeaderContainer>
                 <Form>
-                    <Form.Title>Sign In</Form.Title>
+                    <Form.Title>Inloggen</Form.Title>
                     {error && <Form.Error data-testid="error">{error}</Form.Error>}
 
                     <Form.Base onSubmit={handleSignin} method="POST">
                         <Form.Input
-                            placeholder="Email address"
+                            placeholder="E-mailadres"
                             value={emailAddress}
                             onChange={({ target }) => setEmailAddress(target.value)}
                         />
@@ -49,19 +49,19 @@ export default function SignIn() {
                             type="password"
                             value={password}
                             autoComplete="off"
-                            placeholder="Password"
+                            placeholder="Wachtwoord"
                             onChange={({ target }) => setPassword(target.value)}
                         />
                         <Form.Submit disabled={isInvalid} type="submit" data-testid="sign-in">
-                            Sign In
+                            Inloggen
                         </Form.Submit>
                     </Form.Base>
 
                     <Form.Text>
-                        New to Netflix? <Form.Link to="/signup">Sign up now.</Form.Link>
+                        Is Netflix nieuw voor jou? <Form.Link to="/signup">Registreer je nu.</Form.Link>
                     </Form.Text>
                     <Form.TextSmall>
-                        This page is protected by Google reCAPTCHA to ensure you're not a bot. Learn more.
+                        This page is protected by Google reCAPTCHA to ensure you're not a bot. <a href='#'>Lees meer informatie.</a>
                     </Form.TextSmall>
                 </Form>
             </HeaderContainer>

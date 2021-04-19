@@ -5,37 +5,37 @@ import { Footer } from "../components";
 export function FooterContainer(){
     return (
         <Footer>
-            <Footer.Title>Questions? Call 0800-022-5173</Footer.Title>
+            <Footer.Title>Vragen? Bel 0800-022-9647</Footer.Title>
             <Footer.Break />
             <Footer.Row>
                 <Footer.Column>
-                    <Footer.Link href="#">FAQ</Footer.Link>
-                    <Footer.Link href="#">Investor Relations</Footer.Link>
-                    <Footer.Link href="#">Ways to Watch</Footer.Link>
-                    <Footer.Link href="#">Corporate Information</Footer.Link>
-                    <Footer.Link href="#">Netflix Originals</Footer.Link>
+                    <Footer.Link href="https://help.netflix.com/nl/node/412">Veelgestelde vragen</Footer.Link>
+                    <Footer.Link href="https://ir.netflix.net/ir-overview/profile/default.aspx">Relaties met investeerders</Footer.Link>
+                    <Footer.Link href="https://devices.netflix.com/en/">Hoe kun je Netflix kijken?</Footer.Link>
+                    <Footer.Link href="https://help.netflix.com/legal/corpinfo">Bedrijfsgegevens</Footer.Link>
+                    <Footer.Link href="https://www.netflix.com/nl/browse/genre/839338">Netflix Originals</Footer.Link>
                 </Footer.Column>
                 <Footer.Column>
-                    <Footer.Link href="#">Help Center</Footer.Link>
-                    <Footer.Link href="#">Jobs</Footer.Link>
-                    <Footer.Link href="#">Terms of Use</Footer.Link>
-                    <Footer.Link href="#">Contact Us</Footer.Link>
+                    <Footer.Link href="https://help.netflix.com/nl/">Helpcentrum</Footer.Link>
+                    <Footer.Link href="https://jobs.netflix.com/">Vacatures</Footer.Link>
+                    <Footer.Link href="https://help.netflix.com/legal/termsofuse">Gebruiksvoorwaarden</Footer.Link>
+                    <Footer.Link href="https://help.netflix.com/nl/contactus">Contact opnemen</Footer.Link>
                 </Footer.Column>
                 <Footer.Column>
-                    <Footer.Link href="#">Account</Footer.Link>
-                    <Footer.Link href="#">Redeem gift cards</Footer.Link>
-                    <Footer.Link href="#">Privacy</Footer.Link>
-                    <Footer.Link href="#">Speed Test</Footer.Link>
+                    <Footer.Link href="http://localhost:3000/browse">Account</Footer.Link>
+                    <Footer.Link href="https://www.netflix.com/nl/redeem">Cadeaubonnen gebruiken</Footer.Link>
+                    <Footer.Link href="https://help.netflix.com/legal/privacy">Privacy</Footer.Link>
+                    <Footer.Link href="https://fast.com/">Snelheidstest</Footer.Link>
                 </Footer.Column>
                 <Footer.Column>
-                    <Footer.Link href="#">Media Centre</Footer.Link>
-                    <Footer.Link href="#">Buy gift cards</Footer.Link>
-                    <Footer.Link href="#">Cookie Preferences</Footer.Link>
-                    <Footer.Link href="#">Legal Notices</Footer.Link>
+                    <Footer.Link href="https://media.netflix.com/nl/">Mediacenter</Footer.Link>
+                    <Footer.Link href="https://www.netflix.com/gift-cards">Cadeaubonnen kopen</Footer.Link>
+                    <Footer.Link href="http://localhost:3000/">Cookievoorkeuren</Footer.Link>
+                    <Footer.Link href="https://help.netflix.com/legal/notices">Wettelijke bepalingen</Footer.Link>
                 </Footer.Column>
             </Footer.Row>
             <Footer.Break />
-            <Footer.Text>Netflix Netherlands</Footer.Text>
+            <Footer.Text>Netflix Nederland</Footer.Text>
         </Footer>
     )
 }
