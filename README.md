@@ -7,23 +7,23 @@ In deze repository vind je de code van een Netflix react-app met een startpagina
 Ook maakt dit poject gebruik van firebase. 
 <br><br>
 
-![image](https://user-images.githubusercontent.com/72434750/114464333-e7943d00-9be5-11eb-9310-5bff4f22c5b0.png)
+![image](https://user-images.githubusercontent.com/72434750/115223157-c8c50780-a10b-11eb-80a6-699332a3bdcf.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/72434750/114464399-01358480-9be6-11eb-802e-186f5d85c6b9.png)
+![image](https://user-images.githubusercontent.com/72434750/115223211-d67a8d00-a10b-11eb-97d8-3fb9e217f7ee.png)
 <br><br>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/72434750/114464446-10b4cd80-9be6-11eb-90ce-fb8f80b06a01.png)
+![image](https://user-images.githubusercontent.com/72434750/115223297-edb97a80-a10b-11eb-9981-bc0ff9131307.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/72434750/114464475-19a59f00-9be6-11eb-98ab-43417bcf1708.png)
+![image](https://user-images.githubusercontent.com/72434750/115223334-f8740f80-a10b-11eb-9ac4-fd1eaeaad079.png)
 <br><br>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/72434750/114464567-39d55e00-9be6-11eb-87ff-762d4b2cb02a.png)
+![image](https://user-images.githubusercontent.com/72434750/115223420-0e81d000-a10c-11eb-8ac7-90f02eaf0d5d.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/72434750/114464613-478ae380-9be6-11eb-9c29-c78e63c623fd.png)
+![image](https://user-images.githubusercontent.com/72434750/115223475-1ccfec00-a10c-11eb-8be6-6c26b3bd672d.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/72434750/114464694-638e8500-9be6-11eb-8219-3c728b58b772.png)
+![image](https://user-images.githubusercontent.com/72434750/115223514-28231780-a10c-11eb-97ac-d6cdb699ef77.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/72434750/114464741-71dca100-9be6-11eb-895f-1987f2e17c9a.png)
+![image](https://user-images.githubusercontent.com/72434750/115223548-340ed980-a10c-11eb-8bc6-eef1ba75c948.png)
 <br><br>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/72434750/114464831-933d8d00-9be6-11eb-852d-5fc384a9d764.png)
